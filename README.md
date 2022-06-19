@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lastnamelightning
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning Django.
+- 👀 I specialize in full-stack web development, PHP, & Wordpress.
+- 🌱 I’m currently mastering python & Django.
 - 📫 Reach me at dev@calwebmaster.com!
 
 <!---
